@@ -1,0 +1,48 @@
+.container {
+    margin: 20px auto;
+    text-align: center;
+    width: 960px;
+    background: #fff;
+    border:1px solid #000;
+    border-radius: 5px;
+}
+.button {
+    margin-top:60px !important;
+    font-size: 20px !important;
+}
+.alert-danger {
+    background: darkred;
+      width: 35%;
+    margin: 0 auto;
+    color: darkred;
+    padding: 25px;
+}
+.alert-success {
+    background: lightgreen;
+    width: 40%;
+    font-weight: 700;
+    margin: 0 auto;
+    color: darkred;
+    padding: 25px;
+}
+#positionOutput {
+    background: cornflowerblue;
+    width: 65%;
+    font-weight: 700;
+    margin: 20px auto 0px;
+    color: #000;
+    padding: 25px;
+}
+.locButtonMap {
+    background: red;
+    width: 33%;
+    height: 40px;
+    margin-bottom: 30px;
+    line-height: 40px;
+    color: #fff;
+    display: inline-block;
+}
+.locButtonMap:hover {
+    color: #fff;
+}
+  
